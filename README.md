@@ -13,11 +13,11 @@ Microsoft Project 2016 is a robust project management software developed by Micr
 ## Download Microsoft Project
 ### [**_Download Microsoft Project_**](*)
 
-Microsoft Project 2023 is the latest stable release. If you currently have a preview version of Microsoft Project 2023 installed, please uninstall it before proceeding with the installation of the latest stable version. Keep in mind that installing Microsoft Project 2023 will not upgrade or replace any earlier versions of Project (such as Project 2019 or earlier).
+Microsoft Project 2501 is the latest stable release. If you currently have a preview version of Microsoft Project 2501 installed, please uninstall it before proceeding with the installation of the latest stable version. Keep in mind that installing Microsoft Project 2023 will not upgrade or replace any earlier versions of Project (such as Project 2019 or earlier).
 
 By using Microsoft Project, you acknowledge and accept its [license terms](https://www.microsoft.com/en-us/legal) and [privacy policy](https://www.microsoft.com/en-us/privacy). For feedback, suggestions, or to report issues, the most effective way to contact the Microsoft Project team is via the official [Microsoft Project Community site](https://techcommunity.microsoft.com/t5/project/ct-p/Project).
 
-Please note that the Microsoft Project 2023 installation will not replace or upgrade previous versions of Project. Both versions will be available on your system. If you have an earlier preview version of Microsoft Project 2023, you must uninstall it first before installing the stable release. To check if you have a preview version, go to **Help** > **About Microsoft Project**.
+Please note that the Microsoft Project 2501 installation will not replace or upgrade previous versions of Project. Both versions will be available on your system. If you have an earlier preview version of Microsoft Project 2501, you must uninstall it first before installing the stable release. To check if you have a preview version, go to **Help** > **About Microsoft Project**.
 
 ## System Requirements
 Before proceeding with the installation of Microsoft Project 2016, verify that your system meets these minimum requirements:
